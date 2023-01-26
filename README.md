@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Amani Alshami</h1>
 <h3 align="center">A Junior Software Developer</h3>
 
-- 🔭 I’m currently working in **World of System and Software company**
+- 🔭 I’m currently working as **.NET developer**
 
 - 📫 How to reach me **AmaniAlshami@outlook.com**
 
