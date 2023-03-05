@@ -20,5 +20,4 @@
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amanialshami&" alt="amanialshami" /></p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=amanialshami&label=Profile%20views&color=d4e3fe&style=flat" alt="amanialshami" /> </p>
 
